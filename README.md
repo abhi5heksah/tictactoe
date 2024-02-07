@@ -22,7 +22,6 @@ Abhishek Kumar Sah - [@twitter_handle](https://twitter.com/_abhisheksah) - abhis
 
 Project Link: [https://github.com/abhi5heksah/tictactoe](https://github.com/abhi5heksah/tictactoe)# Tic Tac Toe Game
 
-Welcome to the Tic Tac Toe game repository! This project is a classic implementation of the timeless game using HTML, CSS, and JavaScript. Feel free to explore the code, contribute, or even integrate it into your own projects.
 
 ## Getting Started
 
